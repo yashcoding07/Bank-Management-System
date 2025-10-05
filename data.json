@@ -1,18 +1,10 @@
 [
     {
-        "name": "yash",
-        "age": 19,
-        "email": "yash@gmail.com",
-        "pin": 1234,
-        "accountNo.": "41t*xK7",
-        "balance": 10110
-    },
-    {
-        "name": "Yash parmar",
+        "name": "Yash Parmar",
         "age": 19,
         "email": "admin@master.com",
-        "pin": 1234,
-        "accountNo": "L03WP&8",
-        "balance": 0
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "accountNo": "5FF7F4&",
+        "balance": 15099.0
     }
 ]
