@@ -1,1 +1,18 @@
-[{"name": "yash", "age": 19, "email": "yash@gmail.com", "pin": 1234, "accountNo.": "41t*xK7", "balance": 122}]
+[
+    {
+        "name": "yash",
+        "age": 19,
+        "email": "yash@gmail.com",
+        "pin": 1234,
+        "accountNo.": "41t*xK7",
+        "balance": 10110
+    },
+    {
+        "name": "Yash parmar",
+        "age": 19,
+        "email": "admin@master.com",
+        "pin": 1234,
+        "accountNo": "L03WP&8",
+        "balance": 0
+    }
+]
